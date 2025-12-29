@@ -1,7 +1,7 @@
 import { GoogleGenAI } from "@google/genai";
 import { Framework, Language, TestConfig, GeneratedResult } from "../types";
 
-const ai = new GoogleGenAI({ apiKey: process.env.API_KEY });
+const ai = new GoogleGenAI({ apiKey: "AI123" });
 
 export const generateTestCode = async (config: TestConfig): Promise<GeneratedResult> => {
   const modelId = "gemini-3-pro-preview"; // Using Pro for better coding capabilities

@@ -14,11 +14,11 @@ const App: React.FC = () => {
               </svg>
             </div>
             <h1 className="text-xl font-bold tracking-tight text-white">
-              QA <span className="text-qa-accent">GenAI</span> Writer
+              Soliannikov's QA <span className="text-qa-accent">GenAI</span> Writer
             </h1>
           </div>
           <div className="hidden md:flex items-center gap-4 text-sm font-medium text-gray-400">
-            <span>Powered by Gemini 3</span>
+            <span>Created with love by Soliannikov</span>
             <div className="h-4 w-px bg-gray-700"></div>
             <span className="text-qa-accent">v1.0.0</span>
           </div>

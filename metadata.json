@@ -1,5 +1,5 @@
 {
-  "name": "QA GenAI Writer",
+  "name": "Soliannikov - QA GenAI Writer",
   "description": "An AI-powered assistant for QA Automation engineers to generate standard UI tests in Playwright, Cypress, or Selenium based on natural language descriptions.",
   "requestFramePermissions": []
 }
